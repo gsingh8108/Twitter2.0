@@ -1,6 +1,6 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-      apiKey: "AIzaSyDzj9CgGKCvohkPG9Y_94sMlo9UEfLOFgE",
+      apiKey: "...",
       authDomain: "kwitter-3e922.firebaseapp.com",
       databaseURL: "https://kwitter-3e922-default-rtdb.firebaseio.com",
       projectId: "kwitter-3e922",
